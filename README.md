@@ -40,7 +40,7 @@ class University {
 
 }   
 
-class CompositionExample {   
+class Composition {   
 
     public static void main(String[] args)   
 
